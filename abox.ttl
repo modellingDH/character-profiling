@@ -1,0 +1,3068 @@
+@prefix :          <http://literary_characters_psycological_profiles.owl> .
+@prefix artifacts: <http://arsemotica.di.unito.it/artifacts#> .
+@prefix dc:        <http://purl.org/dc/elements/1.1/> .
+@prefix foaf:      <http://xmlns.com/foaf/0.1/> .
+@prefix ma-ont:    <http://www.w3.org/ns/ma-ont#> .
+@prefix owl:       <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:      <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl:      <http://www.w3.org/2003/11/swrl#> .
+@prefix swrlb:     <http://www.w3.org/2003/11/swrlb#> .
+@prefix xml:       <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd:       <http://www.w3.org/2001/XMLSchema#> .
+
+<http://arsemotica.di.unito.it/ontology#r_00345753>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#abbacchiamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01447978>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#inebetire> , <http://arsemotica.di.unito.it/ontology#rimbambire> , <http://arsemotica.di.unito.it/ontology#rinfanciullire> , <http://arsemotica.di.unito.it/ontology#incitrullirsi> , <http://arsemotica.di.unito.it/ontology#istupidire> , <http://arsemotica.di.unito.it/ontology#rimbambinire> , <http://arsemotica.di.unito.it/ontology#rincretinire> , <http://arsemotica.di.unito.it/ontology#rimbecillirsi> .
+
+<http://arsemotica.di.unito.it/ontology#n_05592156>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#superbamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#encomiabilmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05577411>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#riprovazione> , <http://arsemotica.di.unito.it/ontology#disapprovazione> .
+
+<http://arsemotica.di.unito.it/ontology#a_00828302>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05596414>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esultazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#lodevolmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01100759>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01099314>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#felice> .
+
+<http://arsemotica.di.unito.it/ontology#devozione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05589637>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#furia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05612765>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#deprimere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#triste>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00372453>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05596105>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594446>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#crocifiggere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05580284>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05609295>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stordire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rincretinire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00997111>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05577544>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disprezzo> , <http://arsemotica.di.unito.it/ontology#dispregio> , <http://arsemotica.di.unito.it/ontology#disdegno> , <http://arsemotica.di.unito.it/ontology#sdegno> .
+
+<http://arsemotica.di.unito.it/ontology#n_05601181>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00118303>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00117872>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Grief>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#incitare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Vigilance>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01313142>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00182087>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00092842>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#seccante> , <http://arsemotica.di.unito.it/ontology#irritante> .
+
+<http://arsemotica.di.unito.it/ontology#affannosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#svergognare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sconcertare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05593817>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#catastrofico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00556147>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contentezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00472844>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+artifacts:Apprehension
+        rdf:type    owl:NamedIndividual ;
+        owl:sameAs  <http://dbpedia.org/resource/Apprehension_(fear)> .
+
+<http://arsemotica.di.unito.it/ontology#accontentamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01566899>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#oppresso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esaudire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01101074>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#infelice> , <http://arsemotica.di.unito.it/ontology#triste> .
+
+<http://arsemotica.di.unito.it/ontology#r_00260705>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#struggicuore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00670851>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594782>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#comunicativo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05599226>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#orgoglio> .
+
+<http://arsemotica.di.unito.it/ontology#v_01221002>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05580938>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#mortificazione> .
+
+<http://arsemotica.di.unito.it/ontology#r_00397497>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#miseramente> .
+
+<http://arsemotica.di.unito.it/ontology#n_05588172>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disconforto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#invidiabilmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#impazienza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rallegrare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ansia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01237518>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#tripudiare> .
+
+<http://arsemotica.di.unito.it/ontology#v_01239476>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05597503>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ammirazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05603715>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01226464>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#affliggersi> , <http://arsemotica.di.unito.it/ontology#addolorarsi> .
+
+<http://arsemotica.di.unito.it/ontology#accosto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01234179>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mesto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gaudiosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02246531>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#sorpreso> .
+
+<http://arsemotica.di.unito.it/ontology#n_05593480>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#batticuore> , <http://arsemotica.di.unito.it/ontology#apprensione> , <http://arsemotica.di.unito.it/ontology#affanno> , <http://arsemotica.di.unito.it/ontology#angoscia> , <http://arsemotica.di.unito.it/ontology#ansia> .
+
+<http://arsemotica.di.unito.it/ontology#a_01215015>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01229968>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05588725>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#considerazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#apprensivamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#inacerbire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#arrabbiato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#meraviglia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01178808>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disperato> .
+
+<http://arsemotica.di.unito.it/ontology#lamentosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00323106>
+        rdf:type  owl:NamedIndividual .
+
+:Shylock  rdf:type          owl:NamedIndividual , foaf:Person ;
+        :described_by_word  <http://arsemotica.di.unito.it/ontology#preoccupato> , <http://arsemotica.di.unito.it/ontology#rabbia> , <http://arsemotica.di.unito.it/ontology#raccapriccio> , <http://arsemotica.di.unito.it/ontology#vittimismo> , <http://arsemotica.di.unito.it/ontology#rabbiosamente> , <http://arsemotica.di.unito.it/ontology#vergogna> .
+
+<http://arsemotica.di.unito.it/ontology#rincuorarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#smontare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#seccare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ottimisticamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05588960>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#indignazione> , <http://arsemotica.di.unito.it/ontology#sdegno> .
+
+<http://arsemotica.di.unito.it/ontology#innervosire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00227177>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01089436>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#imbronciato> .
+
+<http://arsemotica.di.unito.it/ontology#a_02290807>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#nervoso> .
+
+<http://arsemotica.di.unito.it/ontology#r_00308881>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594044>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disfattismo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05598089>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00493129>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scornare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02002844>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05609709>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#bile>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tristemente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mite>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rincrescimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mortificazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01566364>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05586494>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ribrezzo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00582462>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#irritazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05598965>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#incocciatura>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#attrizione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#crepacuore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00214298>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sbalordimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#interessato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01247684>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#piacere> , <http://arsemotica.di.unito.it/ontology#amare> .
+
+<http://arsemotica.di.unito.it/ontology#n_05589778>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#imbronciato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#repulsione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sorpresa>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#consolare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00582840>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02290470>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#portentosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01734180>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#addolorato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#affliggere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05597617>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gelo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#passabile>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#avvilire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00420393>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#stretto> , <http://arsemotica.di.unito.it/ontology#vicino> .
+
+<http://arsemotica.di.unito.it/ontology#cogliere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+artifacts:  rdf:type          owl:NamedIndividual ;
+        artifacts:hasEmotion  artifacts:Love , <http://dbpedia.org/page/Grief> , artifacts:Anger , <http://dbpedia.org/resource/Apprehension_(fear)> , <http://dbpedia.org/page/Boredom> ;
+        <http://arsemotica.di.unito.it/ontology#hasEmotionalWord>
+                artifacts:paura , artifacts:tristezza , artifacts:desiderio , artifacts:nostalgia , artifacts:incantare , artifacts:soddisfazione , artifacts:tenero , artifacts:amore , artifacts:disincanto , artifacts:noia , artifacts:disillusione , artifacts:piacere , artifacts:sofferenza , artifacts:appagamento , artifacts:rigettare , artifacts:sorpresa , artifacts:rabbia , artifacts:speranza ;
+        ma-ont:hasCreator     <http://arsemotica.di.unito.it/ontology#TommasoCerasuolo> , <http://arsemotica.di.unito.it/ontology#DonatoProsdocimo> , <http://arsemotica.di.unito.it/ontology#RaffaelePalma> , <http://arsemotica.di.unito.it/ontology#FilippoValente> , <http://arsemotica.di.unito.it/ontology#LorenzoAlessandri> , <http://arsemotica.di.unito.it/ontology#MarziaMigliora> , <http://arsemotica.di.unito.it/ontology#AlessandroCaligarisCappio> , <http://arsemotica.di.unito.it/ontology#AkiraZakamoto> , <http://arsemotica.di.unito.it/ontology#AdeleObice> , <http://arsemotica.di.unito.it/ontology#SalvatoreZito> ;
+        ma-ont:title          "Tango" , "Rinoceronte" , "Atterraggio a Leumann" , "Che autoritratto !" , "Octopussy in Love" , "Cannibalismo Sociale" , "Weird Fish" , "Dove la Raffinata Ragazza Bionda guarda il Grosso Toro Malmorto" , "Let down" , "Angry Germ" , "Bianca e il suo contrario" , "Un colpo di vento" , "Audrey" , "Osservando" , "Reading in the car" , "Una farfalla" , "Terra Madre" , "Green Card" , "Le Vespe sentono sete ma nessuno sa come" , "Pop Lovers" .
+
+<http://arsemotica.di.unito.it/ontology#colpa>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00509150>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05588618>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#orrore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#cruccio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#calore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01309360>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01309535>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05604748>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01237116>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#immelanconire> , <http://arsemotica.di.unito.it/ontology#addolorare> .
+
+<http://arsemotica.di.unito.it/ontology#repellere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#infelice>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#bonario>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02247311>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+artifacts:Joy  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://wiktionary.dbpedia.org/page/joy> , <http://it.dbpedia.org/page/Gioia_%28emozione%29> .
+
+<http://arsemotica.di.unito.it/ontology#n_05587878>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#rabbia> , <http://arsemotica.di.unito.it/ontology#collera> .
+
+<http://arsemotica.di.unito.it/ontology#assillare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pessimista>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00378612>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#gelosamente> .
+
+<http://arsemotica.di.unito.it/ontology#r_00330011>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#meraviglioso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contrariare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gongolamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#benevolmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#smania>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ripulsione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05592071>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#attonimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#demoralizzare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Admiration>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01734691>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01737080>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05599367>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01221816>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#miseramente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#giocondo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05580651>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disagio> .
+
+<http://arsemotica.di.unito.it/ontology#n_05596946>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02337269>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#lietezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scrupolo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#miseria>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00273738>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00598839>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05595732>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00557087>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#soddisfatto> .
+
+<http://arsemotica.di.unito.it/ontology#r_00191539>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mestizia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00220367>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#beneficenza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05604301>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#batticuore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esasperazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602190>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gaudio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00421500>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01244174>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#afflitto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01706499>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05607353>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01605795>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#scoraggiato> , <http://arsemotica.di.unito.it/ontology#demoralizzato> .
+
+<http://arsemotica.di.unito.it/ontology#a_00670286>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00197005>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Love>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disperarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#demoralizzante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rattristato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stupore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00315910>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gelosia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00179505>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ansiosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sorprendere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rallegrarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#festoso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05577970>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#schifo> .
+
+<http://arsemotica.di.unito.it/ontology#Apprehension>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05614716>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01240173>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02001946>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#gratificante> , <http://arsemotica.di.unito.it/ontology#soddisfacente> .
+
+<http://arsemotica.di.unito.it/ontology#n_05601957>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05603196>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00476269>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05607201>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sgomento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#orgogliosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00259750>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Disapproval>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#accanimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01940914>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05606636>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02344950>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#oltraggiare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01625843>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#indignazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00343284>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#penitente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00399172>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#luttuosamente> .
+
+<http://arsemotica.di.unito.it/ontology#mortificare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#spaventoso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#voltastomaco>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#spensierato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#abbacchiare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#amarezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#apprezzare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sconfortante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scontentezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05600844>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01610144>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rasserenarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#confortare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01302744>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stomacare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rimbambinire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#effervescenza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01246666>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05590065>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00448253>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00248776>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#confondere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#frustrazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01309833>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#presso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disprezzo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02336957>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sorreggere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01313226>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05598350>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#allegria> .
+
+<http://arsemotica.di.unito.it/ontology#rimbambire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00582994>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602106>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#seccante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594203>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#irritare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sconcerto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00048845>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00556743>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#abbattere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#compito>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#imbarazzare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stizzosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05589074>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#infastidire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#appagamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#imbarazzo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05578925>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#angosciare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01176593>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00408616>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#pessimisticamente> .
+
+<http://arsemotica.di.unito.it/ontology#v_00582621>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sdegno>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#doglioso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05601776>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+artifacts:Sadness  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://dbpedia.org/page/Sadness> .
+
+artifacts:Grief  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://dbpedia.org/page/Grief> .
+
+<http://arsemotica.di.unito.it/ontology#n_05599822>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01943022>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#fastidioso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01312366>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#debellare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mal_umore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#compunzione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pessimisticamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01308632>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#malinconico> , <http://arsemotica.di.unito.it/ontology#triste> .
+
+<http://arsemotica.di.unito.it/ontology#soddisfare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rasserenare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00312722>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05588413>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05609517>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#insicurezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00304232>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01404669>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#allarme>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rabbiosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual , :Nervousism_denoting_Words .
+
+<http://arsemotica.di.unito.it/ontology#n_05578076>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602852>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esacerbare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00454522>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#trepidanza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esultare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disgraziato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pentimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01139868>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#nervoso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00446819>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#preoccupare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05601315>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01733963>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#scontento> .
+
+<http://arsemotica.di.unito.it/ontology#disgustare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#paturne>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tremendo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00557191>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tormentato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01236581>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#opprimere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05580828>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05609411>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01177991>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disperato> .
+
+<http://arsemotica.di.unito.it/ontology#n_05597250>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#avvilimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Pensiveness>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01709572>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sbugiardare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00194690>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#spaventoso> .
+
+<http://arsemotica.di.unito.it/ontology#r_00223640>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00582048>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#lietamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00209555>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01731686>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ilare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stupefazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#letizia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#depressione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#bocciare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00509796>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sorpreso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00186262>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00271194>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01308059>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#contento> , <http://arsemotica.di.unito.it/ontology#lieto> .
+
+<http://arsemotica.di.unito.it/ontology#a_01308350>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00308582>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dispregio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602279>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00178680>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05586117>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#impazienza> .
+
+<http://arsemotica.di.unito.it/ontology#annuncio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#devoto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05598666>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05597982>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#allietare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#crocefiggere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01855798>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#agitato> .
+
+<http://arsemotica.di.unito.it/ontology#concitamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01226612>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#rammaricare> , <http://arsemotica.di.unito.it/ontology#affliggere> , <http://arsemotica.di.unito.it/ontology#rattristare> , <http://arsemotica.di.unito.it/ontology#addolorare> .
+
+<http://arsemotica.di.unito.it/ontology#nauseare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tristezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#irosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rammarico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02436303>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#annunzio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05589169>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#giolito>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00342819>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02248624>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#sorprendente> .
+
+<http://arsemotica.di.unito.it/ontology#tripudio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01237403>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#rallegrare> , <http://arsemotica.di.unito.it/ontology#allietare> .
+
+<http://arsemotica.di.unito.it/ontology#Optimism>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#coscienza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rinfanciullire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01238101>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#deprimere> .
+
+<http://arsemotica.di.unito.it/ontology#paturnie>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#oppure_agitazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00750517>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sconforto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02246844>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00497363>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02338153>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#preoccupato> .
+
+<http://arsemotica.di.unito.it/ontology#n_05598269>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ridda>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00220692>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#demoralizzazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ardore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#impressionare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#obbrobriosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#allegramente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Loathing>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01241117>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01235891>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00510407>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#soddisfacimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00353838>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00455379>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05608223>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05583004>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#costernazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01309194>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05599598>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05612865>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#gelosia> .
+
+<http://arsemotica.di.unito.it/ontology#sconsolazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594325>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05603470>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dolente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#strabiliare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00195880>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00859179>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#lugubremente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05600505>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05577676>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disgusto> , <http://arsemotica.di.unito.it/ontology#ribrezzo> , <http://arsemotica.di.unito.it/ontology#nausea> .
+
+<http://arsemotica.di.unito.it/ontology#v_01238399>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#consolare> , <http://arsemotica.di.unito.it/ontology#confortare> .
+
+<http://arsemotica.di.unito.it/ontology#tormentarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00090468>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05598559>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00445721>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00351663>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05603115>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tediare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sconfiggere>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gioia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#peso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dispiacere_a>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00296382>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#giubbilare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#alteramente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stimare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#titillamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rimordimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Acceptance>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tenero>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05592546>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05607640>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00874095>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02017003>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#culto_degli_eroi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01220279>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vessare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#salutarmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#turbamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ira>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ammirare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05596527>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#desolante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00117308>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#arrabbiato> .
+
+<http://arsemotica.di.unito.it/ontology#a_00863650>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01098277>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00403897>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#presso> , <http://arsemotica.di.unito.it/ontology#vicino> , <http://arsemotica.di.unito.it/ontology#accosto> , <http://arsemotica.di.unito.it/ontology#accanto> .
+
+<http://arsemotica.di.unito.it/ontology#inebetire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01242326>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#irritare> .
+
+<http://arsemotica.di.unito.it/ontology#a_00863871>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rammaricare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#giubilo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05596218>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05582729>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vituperosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01312115>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mirabilmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#deplorevolmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01226873>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#urtare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#immalinconire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05604181>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#deprimente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05604103>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602697>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dispiaciuto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#angustia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00119146>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pessimismo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05576222>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01762305>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#vessare> , <http://arsemotica.di.unito.it/ontology#tormentare> , <http://arsemotica.di.unito.it/ontology#opprimere> , <http://arsemotica.di.unito.it/ontology#perseguitare> .
+
+<http://arsemotica.di.unito.it/ontology#v_01502875>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disgustare> , <http://arsemotica.di.unito.it/ontology#nauseare> .
+
+<http://arsemotica.di.unito.it/ontology#dolore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00783553>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#ansioso> .
+
+<http://arsemotica.di.unito.it/ontology#v_00626227>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scoraggiare>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05581284>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://dbpedia.org/page/Admiration>
+        rdf:type    owl:NamedIndividual ;
+        owl:sameAs  <http://wiktionary.dbpedia.org/page/admiration-English> .
+
+<http://arsemotica.di.unito.it/ontology#fantastico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#angoscia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00580082>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#appartenenza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#angustiare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#soddisfacente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#penitenza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00772422>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01211759>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#amare> .
+
+<http://arsemotica.di.unito.it/ontology#r_00111977>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02248299>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#sorprendente> .
+
+<http://arsemotica.di.unito.it/ontology#sconfortare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05599694>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#trepidezza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#amorevole>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01205957>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#tormentarsi> , <http://arsemotica.di.unito.it/ontology#preoccupare> .
+
+<http://arsemotica.di.unito.it/ontology#n_05608042>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#passione> , <http://arsemotica.di.unito.it/ontology#ardore> .
+
+<http://arsemotica.di.unito.it/ontology#seccato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01211520>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#disdegnare> , <http://arsemotica.di.unito.it/ontology#disprezzare> , <http://arsemotica.di.unito.it/ontology#sprezzare> .
+
+<http://arsemotica.di.unito.it/ontology#disgusto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#furore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00118531>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#amorevolmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sofferto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#spiacente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01178424>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vittimismo>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05595049>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00118752>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#avido>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01223746>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01225879>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disagio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01404786>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02222607>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01674134>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#insofferente> , <http://arsemotica.di.unito.it/ontology#impaziente> .
+
+<http://arsemotica.di.unito.it/ontology#n_05592642>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#amare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#modestia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#luttuosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05600734>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00473201>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00751449>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01314685>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00825624>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#avvilente> , <http://arsemotica.di.unito.it/ontology#demoralizzante> , <http://arsemotica.di.unito.it/ontology#deprimente> , <http://arsemotica.di.unito.it/ontology#scoraggiante> , <http://arsemotica.di.unito.it/ontology#sconfortante> , <http://arsemotica.di.unito.it/ontology#sconsolante> , <http://arsemotica.di.unito.it/ontology#desolante> .
+
+<http://arsemotica.di.unito.it/ontology#Contempt>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05600250>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gioiosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01222619>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05607104>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05576115>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00343022>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ottimista>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00220542>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#accontentare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602526>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02314238>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05605389>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05575841>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#amoroso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gaio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01827420>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#preoccupare> .
+
+<http://arsemotica.di.unito.it/ontology#a_00945257>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tetramente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00113354>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01179135>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00845237>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disapprovazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#adorazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01605426>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01314288>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#allegro> .
+
+<http://arsemotica.di.unito.it/ontology#a_01309603>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01228249>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#malinconia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#meravigliosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05603809>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05606995>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00221152>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05589430>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rimbecillirsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05600968>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contrariato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00312487>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#accanto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disdegno>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#soddisfacentemente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05608345>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05601413>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#indegnamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00117684>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stizza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stupire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#demoralizzato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#estroverso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00408211>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#passione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00014198>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scoramento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#magone>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05583536>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#piacere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00826026>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ottimistico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#compuntamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00408432>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#ottimisticamente> .
+
+<http://arsemotica.di.unito.it/ontology#n_05596018>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00215267>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01219920>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02345311>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#divozione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#trionfare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#schifosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00491581>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stretto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tetro>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05617136>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00359722>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pensiero>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594594>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ansioso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rimorso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ammirevolmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stupefare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01179526>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#amore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_10337658>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05596663>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01239708>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#dispiacere_a> .
+
+<http://arsemotica.di.unito.it/ontology#n_05601647>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00670575>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disperazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00711482>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01403478>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#estroverso> , <http://arsemotica.di.unito.it/ontology#affettuoso> .
+
+<http://arsemotica.di.unito.it/ontology#a_00207781>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vicino>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#struggimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#riprovazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00354187>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#tetro> .
+
+<http://arsemotica.di.unito.it/ontology#infervoramento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disorientare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01212004>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#amare> .
+
+<http://arsemotica.di.unito.it/ontology#a_00156835>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00082090>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01240960>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01102326>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#infastidito> .
+
+<http://arsemotica.di.unito.it/ontology#perseguitare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00669950>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05592428>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01223592>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00548543>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#bocciare> .
+
+<http://arsemotica.di.unito.it/ontology#n_05600345>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02235465>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#detestabilmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Serenity>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#importunare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contentare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scontento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rinfrancare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00399051>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00319405>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#fieramente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05598833>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05612539>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#invidia> .
+
+<http://arsemotica.di.unito.it/ontology#sfasare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#agitato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#narcisismo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#mortificato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05597153>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00169660>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01237680>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#rallegrarsi> .
+
+<http://arsemotica.di.unito.it/ontology#sollevare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01313944>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#immelanconire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#addolorarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#addolorare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01246798>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05583387>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pessimistico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00466103>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#euforico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01572491>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05579963>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#vergogna> .
+
+<http://arsemotica.di.unito.it/ontology#affanno>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#smarrimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05594897>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#cotta>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sorprendentemente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#intontimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#istupidire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stupendamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00288531>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#repugnanza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05581180>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#modestia> .
+
+<http://arsemotica.di.unito.it/ontology#n_05603932>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05607724>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sovranamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00156728>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#collera>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#adorabilmente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#avversione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#irritato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#malinconico>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#giubilare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05614225>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#inquietudine>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01567385>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00698764>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#intuizione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05603599>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02411442>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#infastidito>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00183525>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#istupidire> , <http://arsemotica.di.unito.it/ontology#stordire> , <http://arsemotica.di.unito.it/ontology#intontire> , <http://arsemotica.di.unito.it/ontology#tramortire> .
+
+<http://arsemotica.di.unito.it/ontology#a_00863471>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#euforico> .
+
+<http://arsemotica.di.unito.it/ontology#a_01605516>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#pessimistico> , <http://arsemotica.di.unito.it/ontology#catastrofico> , <http://arsemotica.di.unito.it/ontology#pessimista> .
+
+<http://arsemotica.di.unito.it/ontology#sorprendente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05588822>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01246968>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01502738>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#iratamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dispiacere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#insofferente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ripugnanza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tripudiare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#beneficienza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05606509>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05597701>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01000655>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#povero> .
+
+<http://arsemotica.di.unito.it/ontology#orgoglio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05609617>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sbigottimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vergognosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#stancare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01230203>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#allegro>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#soddisfatto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01233868>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#schifare> , <http://arsemotica.di.unito.it/ontology#stomacare> , <http://arsemotica.di.unito.it/ontology#disgustare> , <http://arsemotica.di.unito.it/ontology#nauseare> .
+
+<http://arsemotica.di.unito.it/ontology#allietarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esasperante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05601051>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rattristare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#desolato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05608126>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#trepidazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00156446>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Awe>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00353628>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#solleticare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pensosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+:Portia  rdf:type  owl:NamedIndividual , foaf:Person .
+
+<http://arsemotica.di.unito.it/ontology#smaccare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#impaziente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rabbia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual , :Nervousism_denoting_Words .
+
+<http://arsemotica.di.unito.it/ontology#r_00419566>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#torturare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01944086>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00493548>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gelosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00223740>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sbalordire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00308724>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esultanza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+artifacts:Boredom  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://dbpedia.org/page/Boredom> .
+
+<http://arsemotica.di.unito.it/ontology#riconfortare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01239189>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05582577>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01101631>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#aizzare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scoraggiante>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tramortire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05606361>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#ottimismo> .
+
+<http://arsemotica.di.unito.it/ontology#umiliare>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#autocommiserazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#affettuoso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contentamento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#cupamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#schifo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01239069>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#vellicare> , <http://arsemotica.di.unito.it/ontology#titillare> , <http://arsemotica.di.unito.it/ontology#solleticare> .
+
+<http://arsemotica.di.unito.it/ontology#r_00367200>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#affliggersi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+artifacts:Surprise  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://dbpedia.org/page/Surprise_%28emotion%29> .
+
+<http://arsemotica.di.unito.it/ontology#a_01311729>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05581054>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#smarrimento> , <http://arsemotica.di.unito.it/ontology#confusione> .
+
+<http://arsemotica.di.unito.it/ontology#a_00218804>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00448605>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#gratificante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#benevolo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contentatura>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01179297>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05586217>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#affranto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+artifacts:Terror  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://dbpedia.org/page/Terror> .
+
+<http://arsemotica.di.unito.it/ontology#a_01310561>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#festoso> .
+
+<http://arsemotica.di.unito.it/ontology#esasperare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ribollimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#felice>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05599930>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00486658>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disdegnare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00157347>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00119459>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#culto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#giocondamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#pentito>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05591792>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#apprensione> , <http://arsemotica.di.unito.it/ontology#timore> .
+
+<http://arsemotica.di.unito.it/ontology#a_02424563>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#senso_di_colpa>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00141302>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01486036>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dolorosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05589957>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00872975>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#presentimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05602960>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00669611>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#schifare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02023897>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#costernare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tumulto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00353542>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02464962>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#oppresso> .
+
+<http://arsemotica.di.unito.it/ontology#lieto>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00227305>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01604600>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#ottimista> , <http://arsemotica.di.unito.it/ontology#ottimistico> .
+
+<http://arsemotica.di.unito.it/ontology#v_00496653>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#nausea>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+artifacts:Admiration  rdf:type  owl:NamedIndividual ;
+        owl:sameAs  <http://wiktionary.dbpedia.org/page/admiration-English> .
+
+<http://arsemotica.di.unito.it/ontology#n_05600637>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00297720>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#invidia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01310938>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#triste> , <http://arsemotica.di.unito.it/ontology#dolente> .
+
+<http://arsemotica.di.unito.it/ontology#timore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#povero>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#accesso>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00389425>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01247189>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00179150>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05607505>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#pessimismo> .
+
+<http://arsemotica.di.unito.it/ontology#r_00308234>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#consolarsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disperato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01313374>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05580420>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#confusione> , <http://arsemotica.di.unito.it/ontology#vergogna> , <http://arsemotica.di.unito.it/ontology#imbarazzo> .
+
+<http://arsemotica.di.unito.it/ontology#meravigliare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01680937>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#indispettire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#esuberanza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sprezzare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#appagare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01308490>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#felice> .
+
+<http://arsemotica.di.unito.it/ontology#intontire>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01102092>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vellicare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rivoltare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00826169>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00031053>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#avido> .
+
+<http://arsemotica.di.unito.it/ontology#a_00352106>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sconsolante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#penosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01999937>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#ottimismo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#cinismo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#materno>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00556568>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#titillare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#dimestichevole>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#tormentare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00874850>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00387194>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#aiutare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02340900>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#spensierato> .
+
+<http://arsemotica.di.unito.it/ontology#infatuazione_giovanile>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#cordiale>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#irritante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01214954>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#confusamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_00491471>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#abbattimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05597799>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rammaricato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#avvilente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#adeguatamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#raccapriccio>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual , :Nervousism_denoting_Words .
+
+<http://arsemotica.di.unito.it/ontology#imbarazzante>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05582875>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#sorpresa> .
+
+<http://arsemotica.di.unito.it/ontology#festosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00405649>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05589301>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#paturne> , <http://arsemotica.di.unito.it/ontology#nervoso> .
+
+<http://arsemotica.di.unito.it/ontology#a_01735655>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#impazientemente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#malumore>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#bizza>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00435962>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#autocompiacimento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00337887>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#fragorosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01737503>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#esasperante> .
+
+<http://arsemotica.di.unito.it/ontology#esulcerare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01237013>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#allietarsi> .
+
+<http://arsemotica.di.unito.it/ontology#n_05596742>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05585895>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#smania> .
+
+<http://arsemotica.di.unito.it/ontology#scoraggiato>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#scocciare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#affabile>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#incitrullirsi>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disgustosamente>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01236227>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#sollevare> .
+
+<http://arsemotica.di.unito.it/ontology#r_00150972>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#concitazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00314694>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01681118>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#angustiato>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#paterno>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#patema>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#superare>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#foga>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01222254>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disprezzare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01822979>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#appagare> , <http://arsemotica.di.unito.it/ontology#esaudire> , <http://arsemotica.di.unito.it/ontology#contentare> , <http://arsemotica.di.unito.it/ontology#soddisfare> .
+
+<http://arsemotica.di.unito.it/ontology#v_00812241>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00659470>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00002940>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#disturbare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#vincere>
+        rdf:type  :Antagonistic_Words , <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#sbalorditivo>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#rallegramento>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#contrito>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#euforia>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#confusione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00228716>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05606847>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_00157147>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05582358>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#sbalordimento> , <http://arsemotica.di.unito.it/ontology#stupore> , <http://arsemotica.di.unito.it/ontology#meraviglia> , <http://arsemotica.di.unito.it/ontology#stupefazione> .
+
+<http://arsemotica.di.unito.it/ontology#n_05603287>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#depressione> .
+
+<http://arsemotica.di.unito.it/ontology#preoccupazione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#paura>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Rage>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00413918>
+        rdf:type  owl:NamedIndividual ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <http://arsemotica.di.unito.it/ontology#pensosamente> .
+
+<http://arsemotica.di.unito.it/ontology#n_05588321>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#battere>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01617066>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#molestare>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#r_00225391>
+        rdf:type  owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#n_05580137>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#Annoyance>
+        rdf:type  owl:Class , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#allegria>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_01940830>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01220411>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#v_01231091>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#apprensione>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Word> , owl:NamedIndividual .
+
+<http://arsemotica.di.unito.it/ontology#a_02301888>
+        rdf:type  <http://arsemotica.di.unito.it/ontology#Wordnet_Sense> , owl:NamedIndividual .
